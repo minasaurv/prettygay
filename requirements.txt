@@ -1,0 +1,12 @@
+asgiref==3.12.1
+Django==6.1.1
+django-environ==0.14.0
+django-icons==26.2
+django-redis==7.0.0
+gunicorn==26.2.0
+psycopg==3.3.6
+psycopg-binary==3.3.6
+redis==8.1.0
+sqlparse==0.6.0
+tzdata==2026.4
+whitenoise==6.12.0
