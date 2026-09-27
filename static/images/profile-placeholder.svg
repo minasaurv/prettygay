@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 640" role="img" aria-labelledby="title desc">
+  <title id="title">Profile placeholder</title>
+  <desc id="desc">Placeholder profile image.</desc>
+  <rect width="480" height="640" fill="#72e0df"/>
+  <g transform="translate(-60 0)">
+    <circle cx="300" cy="165" r="65" fill="#6848a5" stroke="#17151c" stroke-width="12"/>
+    <path d="M172 330c-24-112 20-188 128-188s152 76 128 188l-42-20c10-68-17-114-86-114s-96 46-86 114z" fill="#6848a5" stroke="#17151c" stroke-width="12" stroke-linejoin="round"/>
+    <circle cx="300" cy="310" r="128" fill="#ffb5d0" stroke="#17151c" stroke-width="12"/>
+    <path d="M105 710c18-128 92-192 195-192s177 64 195 192" transform="translate(0 -40)" fill="#c7a7ff" stroke="#17151c" stroke-width="12"/>
+    <circle cx="255" cy="294" r="12" fill="#17151c"/>
+    <circle cx="345" cy="294" r="12" fill="#17151c"/>
+    <path d="M270 360q30 28 60 0" fill="none" stroke="#17151c" stroke-width="10" stroke-linecap="round"/>
+  </g>
+</svg>
